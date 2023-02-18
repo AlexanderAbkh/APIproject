@@ -1,0 +1,67 @@
+{
+    "firstName": "Johnny",
+    "lastName": "Depp",
+    "age": 156,
+    "address": {
+        "streetAddress": "Depps street",
+        "city": "New city",
+        "postalCode": "000-111-222"
+    },
+    "phoneNumbers": [
+        {
+            "type": "iPhone",
+            "number": "0123-777-8888"
+        },
+        {
+            "type": "home",
+            "number": "0123-6666-9999"
+        }
+    ],
+    "Europe": [
+        {
+            "Italy": [
+                {
+                    "Rome": "street Rome 1",
+                    "Milano": "street Milano 1"
+                }
+            ],
+            "Portugal": [
+                {
+                    "Lisbon": [
+                        {
+                            "LisbonDistrict1": "street 1",
+                            "LisbonDistrict2": "street 2"
+                        }
+                    ],
+                    "Braga": "street Braga 1"
+                }
+            ],
+            "Germany": [
+                {
+                    "Berlin": "street Berlin 1",
+                    "Munich": "street Munich 1"
+                }
+            ]
+        }
+    ],
+    "America": [
+        {
+            "USA": [
+                {
+                    "LA": "street LA 1",
+                    "Texas": "street Texas 1"
+                }
+            ],
+            "Argentina": [
+                {
+                    "Buenos Aires": "street Buenos Aires 1"
+                }
+            ],
+            "Brasil": [
+                {
+                    "Rio": "street Rio 1"
+                }
+            ]
+        }
+    ]
+}
